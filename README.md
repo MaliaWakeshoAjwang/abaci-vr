@@ -1,5 +1,7 @@
 # VR Abacus (Soroban Simulator)
 
+[presentation](https://www.canva.com/design/DAGkUI0k--A/hR12PFEou3pp3i2bBIg6cg/edit?utm_content=DAGkUI0k--A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 An interactive Japanese abacus built in Unity for Meta Quest 2.
 
 ## Features
